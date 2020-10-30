@@ -2,9 +2,6 @@ Makefile.PL
 MANIFEST
 README
 Changes
-TODO
-MYMETA.yml
-MYMETA.json
 lib/LaTeX/Encode.pm
 lib/LaTeX/Encode/EncodingTable.pm
 scripts/README
